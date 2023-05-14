@@ -1,0 +1,10 @@
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Temp\Follower\Follower.deps.json
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Temp\Follower\Follower.dll
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\Follower.csproj.AssemblyReference.cache
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\Follower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\Follower.AssemblyInfoInputs.cache
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\Follower.AssemblyInfo.cs
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\Follower.csproj.CoreCompileInputs.cache
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\Follower.dll
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\refint\Follower.dll
+C:\Users\Chris\Desktop\Support\Helper\Plugins\Source\Follower\obj\Debug\net6.0-windows\win-x64\ref\Follower.dll
